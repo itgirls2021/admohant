@@ -13,3 +13,9 @@ h2 {color: rgb(34, 17, 20);
 a {color: rgb(34, 17, 20);
 
 }
+
+nav {background-color: salmon;}
+nav a {color: rgb(34, 17, 20);}
+nav {color: rgb(34, 17, 20);}
+nav a: hover {background-color: peachpuff;}
+
