@@ -1,26 +1,35 @@
 body {
-color: rgb(34, 17, 20);
-background-color: peachpuff;
-}
-h1 {color: rgb(34, 17, 20); 
-   background-color: salmon;
-  font-family: 'Mali', cursive;
-}
+    color: rgb(34, 17, 20);
+    background-color: peachpuff;
+    }
+    h1 {color: rgb(34, 17, 20); 
+       background-color: salmon;
+      font-family: 'Mali', cursive;
+    }
+    
+    h2 {color: rgb(34, 17, 20);
+        font-family: 'Mali', cursive;
+    }
+    a {color: rgb(34, 17, 20);
+    
+    }
+    
+    nav {
+       padding: 10px;
+       margin-bottom: 30px;
+       background-color: salmon;
+       }
+    
+    nav a {color: rgb(34, 17, 20);}
+    nav {color: rgb(34, 17, 20);}
+    nav a hover {background-color: peachpuff;}
 
-h2 {color: rgb(34, 17, 20);
-    font-family: 'Mali', cursive;
-}
-a {color: rgb(34, 17, 20);
-
-}
-
-nav {
-   padding: 10px;
-   margin-bottom: 30px;
-   background-color: salmon;
-   }
-
-nav a {color: rgb(34, 17, 20);}
-nav {color: rgb(34, 17, 20);}
-nav a: hover {background-color: peachpuff;}
-
+    div {
+        border: 1px solid salmon;
+        margin: 30px;
+        padding: 50px;
+        background-color: peachpuff;
+        border-radius: 25px;
+    }
+    
+    
